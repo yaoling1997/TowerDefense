@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">Hello World, TDActivity!</string>
+    <string name="app_name">TD</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/MapLayer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/Menu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/TurrentDefenseActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/TurretDefense.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/model/BombTurret.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/model/BulletTurret.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/model/Enemy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/model/PosionTurret.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/iSun/td/model/SoundWaveTurret.java" charset="GBK" />
+  </component>
+</project>
